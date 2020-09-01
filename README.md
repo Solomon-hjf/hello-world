@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi eveybody,
+My name is Solomon-hjf,welcome to study together in GitHub
